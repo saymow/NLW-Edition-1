@@ -1,0 +1,58 @@
+.point-results-wrapper {
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  background: 
+    linear-gradient(
+      to bottom,  
+      #F0F0F5, 
+      #f0f0f5 360px,
+      #fff 360px,
+      #fff 100%);
+}
+
+.create-point-btn{
+  margin: 2rem auto 0 auto;
+}
+
+#page-my-points {
+  width: 100%;
+  max-width: 1100px;
+
+  margin: 0 auto;
+}
+
+.points-grid {
+  margin-top: 3rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(300px, 400px));
+}
+
+.point-el {
+  margin: .5rem 1rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.img-div img{
+  border-radius: 1rem 1rem 0 0;
+  width: 100%;
+  height: 160px;
+}
+
+.point-el h1 {
+  word-wrap: break-word;
+  max-width: 100%;
+  padding: .6rem 0;
+  font-size: 2.5rem;
+}
+
+.point-el h3 {
+  padding: .6rem 0;
+  font-size: 1.5rem;
+  color: var(--primary-color);
+}

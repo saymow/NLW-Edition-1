@@ -1,0 +1,29 @@
+.register-form {
+  margin: 3rem 2rem;
+  width: 100%;
+  max-width: 360px;   
+}
+
+.register-field input {
+  width: 100%;
+  background: #fff;
+  border-radius: 8px;
+  border: 0;
+  padding: 16px 24px;
+  font-size: 16px;
+  color: #6C6C80;
+  margin-top: 2rem;
+}
+
+.register-field input::placeholder{
+  color: #999;
+}
+
+.get_back_home_link {
+  display: flex;
+  justify-content: center;
+}
+
+.get_back_home_link span {
+  margin-right: 5px;
+}

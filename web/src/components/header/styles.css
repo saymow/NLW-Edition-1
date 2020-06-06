@@ -1,0 +1,22 @@
+header {
+  margin-top: 48px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header span {
+  cursor: pointer;
+  color: var(--title-color);
+  font-weight: bold;
+  text-decoration: none;
+
+  display: flex;
+  align-items: center;
+}
+
+header span svg {
+  margin-right: 6px;
+  color: var(--primary-color);
+}
