@@ -39,15 +39,15 @@
 
 ```
 # Clone this repositoy
-$ git clone git@github.com:saymow/Fibonacci-s-sequence-based-Flashcard.git
+$ git clone git@github.com:saymow/NLW-Edition-1.git
 
 # Change into its directory
-$ cd Fibonacci-s-sequence-based-Flashcard
+$ cd NLW-Edition-1
 
-# Change into its  server, web and mobile 
+# Change directory into its  server, web and mobile 
 
 $ cd server
-$ cd server
+$ cd ..
 
 # Run this commands in each of them
 
