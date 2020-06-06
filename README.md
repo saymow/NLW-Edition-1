@@ -1,7 +1,7 @@
 <h1 align="center">:fire: NLW Edition 1 :fire:</h1>
 <br>
 <p align="center">
-   <img src="https://github.com/saymow/Next-Level-Week-edition-1/blob/master/.github/Capa.png"</img>
+   <img src="https://github.com/saymow/NLW-Edition-1/blob/master/.github/Capa.png"</img>
 </p>
 
 
@@ -16,8 +16,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/saymow/Next-Level-Week-edition-1/blob/master/.github/Web.gif" width="1260px"><img>
-  <img src="https://github.com/saymow/Next-Level-Week-edition-1/blob/master/.github/Mobile.gif" width="520px"><img>
+  <img src="https://github.com/saymow/NLW-Edition-1/blob/master/.github/Web.gif"><img>
+  <img src="https://github.com/saymow/NLW-Edition-1/blob/master/.github/Mobile.gif" width="520px"><img>
 </p>
 
 ## :rocket: Tecnologias:
